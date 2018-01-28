@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////
+// project : Moms' Kitchen;
+// year : 2018;
+// author : Neelakanteswar Patnaik;
+/////////////////////////////////////////////////////
+
+//configuration styles
+@import "colors";
+@import "fonts";
+@import "breakpoints";
+
+
+// component styles
+@import "Header";
+@import "Loading";
+@import "home";
+
+body{
+  font-family: $open-sans;
+  a{
+    outline: 0 !important;
+  }
+}
