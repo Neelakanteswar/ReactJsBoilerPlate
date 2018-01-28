@@ -1,4 +1,4 @@
-# React_boilerplate
+# ReactJs boilerplate
 
 This is a boiler plate designed for reactJs development.
 This boiler plate includes all the initial packages and supporting frameworks required to start a ReactJs application.
